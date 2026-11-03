@@ -7,42 +7,42 @@
    "name": "Higher-timeframe trend",
    "weight": 3,
    "value": -1,
-   "reason": "NQ 28,402 vs 20d 29,820 / 50d 29,909"
+   "reason": "NQ 28,312 vs 20d 29,816 / 50d 29,907"
   },
   {
    "id": "y10",
    "name": "10Y yield",
    "weight": 3,
    "value": 0,
-   "reason": "10Y 4.95% (-4 bps over 5d)"
+   "reason": "10Y 4.95% (-5 bps over 5d)"
   },
   {
    "id": "fed",
    "name": "Rate expectations (5Y yield)",
    "weight": 2,
    "value": 1,
-   "reason": "5Y 4.75% (-19 bps over 10d)"
+   "reason": "5Y 4.74% (-20 bps over 10d)"
   },
   {
    "id": "vix",
    "name": "VIX / volatility",
    "weight": 2,
    "value": -1,
-   "reason": "VIX 20.4 (+16% over 5d)"
+   "reason": "VIX 20.8 (+18% over 5d)"
   },
   {
    "id": "mega",
    "name": "Mega-cap leadership",
    "weight": 3,
    "value": -1,
-   "reason": "Mega-cap avg -4.1% over 5d"
+   "reason": "Mega-cap avg -4.4% over 5d"
   },
   {
    "id": "dxy",
    "name": "DXY (US dollar)",
    "weight": 1,
    "value": 0,
-   "reason": "DXY 101.82 (-0.5% over 5d)"
+   "reason": "DXY 101.86 (-0.4% over 5d)"
   },
   {
    "id": "brd",
@@ -56,14 +56,14 @@
    "name": "Overnight move",
    "weight": 1,
    "value": 1,
-   "reason": "NQ +0.98% vs prior close"
+   "reason": "NQ +0.66% vs prior close"
   }
  ],
- "updated": "2026-11-03T18:55+00:00",
+ "updated": "2026-11-03T19:55+00:00",
  "events": [
   "10:16 ET  Congressional Elections"
  ],
  "event_risk": true,
- "price": 28402.0,
+ "price": 28312.0,
  "contract": "NQZ2026"
 }
