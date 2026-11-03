@@ -1,48 +1,48 @@
 {
- "score": -24,
+ "score": -29,
  "label": "Bearish",
  "drivers": [
   {
    "id": "htf",
    "name": "Higher-timeframe trend",
    "weight": 3,
-   "value": 0,
-   "reason": "NQ 28,212 vs 20d 29,979 / 50d 29,925"
+   "value": -1,
+   "reason": "NQ 28,402 vs 20d 29,820 / 50d 29,909"
   },
   {
    "id": "y10",
    "name": "10Y yield",
    "weight": 3,
    "value": 0,
-   "reason": "10Y 4.89% (-9 bps over 5d)"
+   "reason": "10Y 4.95% (-4 bps over 5d)"
   },
   {
    "id": "fed",
    "name": "Rate expectations (5Y yield)",
    "weight": 2,
    "value": 1,
-   "reason": "5Y 4.69% (-24 bps over 10d)"
+   "reason": "5Y 4.75% (-19 bps over 10d)"
   },
   {
    "id": "vix",
    "name": "VIX / volatility",
    "weight": 2,
    "value": -1,
-   "reason": "VIX 21.1 (+15% over 5d)"
+   "reason": "VIX 20.4 (+16% over 5d)"
   },
   {
    "id": "mega",
    "name": "Mega-cap leadership",
    "weight": 3,
    "value": -1,
-   "reason": "Mega-cap avg -5.0% over 5d"
+   "reason": "Mega-cap avg -4.1% over 5d"
   },
   {
    "id": "dxy",
    "name": "DXY (US dollar)",
    "weight": 1,
    "value": 0,
-   "reason": "DXY 101.79 (-0.2% over 5d)"
+   "reason": "DXY 101.82 (-0.5% over 5d)"
   },
   {
    "id": "brd",
@@ -55,13 +55,15 @@
    "id": "glx",
    "name": "Overnight move",
    "weight": 1,
-   "value": -1,
-   "reason": "NQ -1.13% vs prior close"
+   "value": 1,
+   "reason": "NQ +0.98% vs prior close"
   }
  ],
- "updated": "2026-11-02T22:05+00:00",
- "events": [],
- "event_risk": false,
- "price": 28212.5,
+ "updated": "2026-11-03T18:55+00:00",
+ "events": [
+  "10:16 ET  Congressional Elections"
+ ],
+ "event_risk": true,
+ "price": 28402.0,
  "contract": "NQZ2026"
 }

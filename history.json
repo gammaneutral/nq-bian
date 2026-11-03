@@ -40,5 +40,11 @@
   "label": "Bearish",
   "event_risk": false,
   "price": 28212.5
+ },
+ "2026-11-03": {
+  "score": -29,
+  "label": "Bearish",
+  "event_risk": true,
+  "price": 28402.0
  }
 }
