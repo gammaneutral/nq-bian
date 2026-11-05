@@ -52,5 +52,11 @@
   "label": "Bullish",
   "event_risk": false,
   "price": 28609.0
+ },
+ "2026-11-05": {
+  "score": -24,
+  "label": "Bearish",
+  "event_risk": false,
+  "price": 26923.5
  }
 }
