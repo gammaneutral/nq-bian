@@ -1,5 +1,5 @@
 {
- "score": -12,
+ "score": -14,
  "label": "Neutral",
  "drivers": [
   {
@@ -7,42 +7,42 @@
    "name": "Higher-timeframe trend",
    "weight": 3,
    "value": -1,
-   "reason": "NQ 27,180 vs 20d 29,266 / 50d 29,792"
+   "reason": "NQ 27,163 vs 20d 29,266 / 50d 29,792"
   },
   {
    "id": "y10",
    "name": "10Y yield",
    "weight": 3,
    "value": 0,
-   "reason": "10Y 4.84% (-9 bps over 5d)"
+   "reason": "10Y 4.85% (-8 bps over 5d)"
   },
   {
    "id": "fed",
    "name": "Rate expectations (5Y yield)",
    "weight": 2,
    "value": 1,
-   "reason": "5Y 4.63% (-17 bps over 10d)"
+   "reason": "5Y 4.64% (-16 bps over 10d)"
   },
   {
    "id": "vix",
    "name": "VIX / volatility",
    "weight": 2,
    "value": -1,
-   "reason": "VIX 25.2 (+30% over 5d)"
+   "reason": "VIX 24.9 (+28% over 5d)"
   },
   {
    "id": "mega",
    "name": "Mega-cap leadership",
    "weight": 3,
-   "value": 0,
-   "reason": "Mega-cap avg +0.9% over 5d"
+   "value": null,
+   "reason": "data unavailable"
   },
   {
    "id": "dxy",
    "name": "DXY (US dollar)",
    "weight": 1,
    "value": 0,
-   "reason": "DXY 102.24 (+0.4% over 5d)"
+   "reason": "DXY 102.29 (+0.4% over 5d)"
   },
   {
    "id": "brd",
@@ -56,16 +56,16 @@
    "name": "Overnight move",
    "weight": 1,
    "value": 1,
-   "reason": "NQ +1.60% vs prior close"
+   "reason": "NQ +1.54% vs prior close"
   }
  ],
- "updated": "2026-11-06T18:45+00:00",
+ "updated": "2026-11-06T19:48+00:00",
  "events": [
   "08:30 ET  Average Hourly Earnings m/m",
   "08:30 ET  Non-Farm Employment Change",
   "08:30 ET  Unemployment Rate"
  ],
  "event_risk": true,
- "price": 27180.25,
+ "price": 27163.25,
  "contract": "NQZ2026"
 }
