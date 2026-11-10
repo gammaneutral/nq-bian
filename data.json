@@ -1,48 +1,48 @@
 {
- "score": 18,
- "label": "Bullish",
+ "score": -24,
+ "label": "Bearish",
  "drivers": [
   {
    "id": "htf",
    "name": "Higher-timeframe trend",
    "weight": 3,
    "value": -1,
-   "reason": "NQ 28,073 vs 20d 29,120 / 50d 29,762"
+   "reason": "NQ 27,693 vs 20d 28,963 / 50d 29,724"
   },
   {
    "id": "y10",
    "name": "10Y yield",
    "weight": 3,
    "value": 0,
-   "reason": "10Y 4.86% (-3 bps over 5d)"
+   "reason": "10Y 5.00% (+5 bps over 5d)"
   },
   {
    "id": "fed",
    "name": "Rate expectations (5Y yield)",
    "weight": 2,
-   "value": 1,
-   "reason": "5Y 4.66% (-16 bps over 10d)"
+   "value": 0,
+   "reason": "5Y 4.82% (-2 bps over 10d)"
   },
   {
    "id": "vix",
    "name": "VIX / volatility",
    "weight": 2,
    "value": 0,
-   "reason": "VIX 19.9 (-6% over 5d)"
+   "reason": "VIX 20.3 (-3% over 5d)"
   },
   {
    "id": "mega",
    "name": "Mega-cap leadership",
    "weight": 3,
-   "value": 1,
-   "reason": "Mega-cap avg +2.9% over 5d"
+   "value": 0,
+   "reason": "Mega-cap avg +0.5% over 5d"
   },
   {
    "id": "dxy",
    "name": "DXY (US dollar)",
    "weight": 1,
    "value": 0,
-   "reason": "DXY 101.69 (-0.1% over 5d)"
+   "reason": "DXY 102.26 (+0.4% over 5d)"
   },
   {
    "id": "brd",
@@ -55,13 +55,16 @@
    "id": "glx",
    "name": "Overnight move",
    "weight": 1,
-   "value": 1,
-   "reason": "NQ +3.65% vs prior close"
+   "value": -1,
+   "reason": "NQ -1.15% vs prior close"
   }
  ],
- "updated": "2026-11-09T22:50+00:00",
- "events": [],
- "event_risk": false,
- "price": 28073.25,
+ "updated": "2026-11-10T19:10+00:00",
+ "events": [
+  "08:30 ET  CPI m/m",
+  "08:30 ET  Core CPI m/m"
+ ],
+ "event_risk": true,
+ "price": 27693.25,
  "contract": "NQZ2026"
 }
