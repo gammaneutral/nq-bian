@@ -1,67 +1,67 @@
 {
- "score": -55,
- "label": "Strong bearish",
+ "score": -47,
+ "label": "Bearish",
  "drivers": [
   {
    "id": "htf",
    "name": "Higher-timeframe trend",
    "weight": 3,
-   "value": null,
-   "reason": "data unavailable"
+   "value": -1,
+   "reason": "NQ 28,354 vs 20d 28,795 / 50d 29,697"
   },
   {
    "id": "y10",
    "name": "10Y yield",
    "weight": 3,
    "value": -1,
-   "reason": "10Y 5.11% (+28 bps over 5d)"
+   "reason": "10Y 5.10% (+27 bps over 5d)"
   },
   {
    "id": "fed",
    "name": "Rate expectations (5Y yield)",
    "weight": 2,
    "value": -1,
-   "reason": "5Y 4.95% (+15 bps over 10d)"
+   "reason": "5Y 4.95% (+14 bps over 10d)"
   },
   {
    "id": "vix",
    "name": "VIX / volatility",
    "weight": 2,
    "value": 0,
-   "reason": "VIX 18.3 (-35% over 5d)"
+   "reason": "VIX 18.6 (-34% over 5d)"
   },
   {
    "id": "mega",
    "name": "Mega-cap leadership",
    "weight": 3,
    "value": 0,
-   "reason": "Mega-cap avg +0.7% over 5d"
+   "reason": "Mega-cap avg +0.4% over 5d"
   },
   {
    "id": "dxy",
    "name": "DXY (US dollar)",
    "weight": 1,
    "value": -1,
-   "reason": "DXY 103.21 (+1.6% over 5d)"
+   "reason": "DXY 103.18 (+1.6% over 5d)"
   },
   {
    "id": "brd",
    "name": "Risk appetite / breadth",
    "weight": 2,
-   "value": null,
-   "reason": "data unavailable"
+   "value": 1,
+   "reason": "3/3 risk-on (RTY>20d: 1, HYG>20d: 1, NQ>ES 5d: 1)"
   },
   {
    "id": "glx",
    "name": "Overnight move",
    "weight": 1,
-   "value": null,
-   "reason": "data unavailable"
+   "value": -1,
+   "reason": "NQ -0.42% vs prior close"
   }
  ],
- "updated": "2026-11-12T19:24+00:00",
+ "updated": "2026-11-12T20:37+00:00",
  "events": [],
  "event_risk": false,
- "price": null,
+ "price": 28354.25,
  "contract": "NQZ2026"
 }

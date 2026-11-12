@@ -84,9 +84,9 @@
   "price": 28570.0
  },
  "2026-11-12": {
-  "score": -55,
-  "label": "Strong bearish",
+  "score": -47,
+  "label": "Bearish",
   "event_risk": false,
-  "price": null
+  "price": 28354.25
  }
 }
