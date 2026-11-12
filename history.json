@@ -82,5 +82,11 @@
   "label": "Bearish",
   "event_risk": false,
   "price": 28570.0
+ },
+ "2026-11-12": {
+  "score": -55,
+  "label": "Strong bearish",
+  "event_risk": false,
+  "price": null
  }
 }
