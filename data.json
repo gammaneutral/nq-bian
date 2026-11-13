@@ -7,28 +7,28 @@
    "name": "Higher-timeframe trend",
    "weight": 3,
    "value": -1,
-   "reason": "NQ 28,000 vs 20d 28,727 / 50d 29,667"
+   "reason": "NQ 28,021 vs 20d 28,728 / 50d 29,668"
   },
   {
    "id": "y10",
    "name": "10Y yield",
    "weight": 3,
    "value": -1,
-   "reason": "10Y 5.14% (+28 bps over 5d)"
+   "reason": "10Y 5.15% (+30 bps over 5d)"
   },
   {
    "id": "fed",
    "name": "Rate expectations (5Y yield)",
    "weight": 2,
    "value": -1,
-   "reason": "5Y 4.97% (+25 bps over 10d)"
+   "reason": "5Y 4.98% (+26 bps over 10d)"
   },
   {
    "id": "vix",
    "name": "VIX / volatility",
    "weight": 2,
    "value": 0,
-   "reason": "VIX 19.4 (-24% over 5d)"
+   "reason": "VIX 19.0 (-26% over 5d)"
   },
   {
    "id": "mega",
@@ -42,7 +42,7 @@
    "name": "DXY (US dollar)",
    "weight": 1,
    "value": -1,
-   "reason": "DXY 103.38 (+1.1% over 5d)"
+   "reason": "DXY 103.40 (+1.1% over 5d)"
   },
   {
    "id": "brd",
@@ -56,15 +56,15 @@
    "name": "Overnight move",
    "weight": 1,
    "value": -1,
-   "reason": "NQ -1.35% vs prior close"
+   "reason": "NQ -1.28% vs prior close"
   }
  ],
- "updated": "2026-11-13T19:02+00:00",
+ "updated": "2026-11-13T20:14+00:00",
  "events": [
   "08:30 ET  Core PPI m/m",
   "08:30 ET  PPI m/m"
  ],
  "event_risk": true,
- "price": 28000.0,
+ "price": 28021.25,
  "contract": "NQZ2026"
 }
