@@ -1,5 +1,5 @@
 {
- "score": -76,
+ "score": -71,
  "label": "Strong bearish",
  "drivers": [
   {
@@ -7,7 +7,7 @@
    "name": "Higher-timeframe trend",
    "weight": 3,
    "value": -1,
-   "reason": "NQ 27,144 vs 20d 28,333 / 50d 29,527"
+   "reason": "NQ 27,186 vs 20d 28,336 / 50d 29,528"
   },
   {
    "id": "y10",
@@ -28,21 +28,21 @@
    "name": "VIX / volatility",
    "weight": 2,
    "value": -1,
-   "reason": "VIX 24.4 (+40% over 5d)"
+   "reason": "VIX 24.6 (+41% over 5d)"
   },
   {
    "id": "mega",
    "name": "Mega-cap leadership",
    "weight": 3,
    "value": -1,
-   "reason": "Mega-cap avg -3.7% over 5d"
+   "reason": "Mega-cap avg -3.6% over 5d"
   },
   {
    "id": "dxy",
    "name": "DXY (US dollar)",
    "weight": 1,
    "value": -1,
-   "reason": "DXY 103.87 (+0.9% over 5d)"
+   "reason": "DXY 103.79 (+0.9% over 5d)"
   },
   {
    "id": "brd",
@@ -55,15 +55,15 @@
    "id": "glx",
    "name": "Overnight move",
    "weight": 1,
-   "value": 0,
-   "reason": "NQ +0.25% vs prior close"
+   "value": 1,
+   "reason": "NQ +0.41% vs prior close"
   }
  ],
- "updated": "2026-11-18T19:50+00:00",
+ "updated": "2026-11-18T21:03+00:00",
  "events": [
   "14:00 ET  FOMC Meeting Minutes"
  ],
  "event_risk": true,
- "price": 27143.5,
+ "price": 27186.25,
  "contract": "NQZ2026"
 }
