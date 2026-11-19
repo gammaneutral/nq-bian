@@ -1,5 +1,5 @@
 {
- "score": -71,
+ "score": -76,
  "label": "Strong bearish",
  "drivers": [
   {
@@ -7,42 +7,42 @@
    "name": "Higher-timeframe trend",
    "weight": 3,
    "value": -1,
-   "reason": "NQ 27,186 vs 20d 28,336 / 50d 29,528"
+   "reason": "NQ 26,820 vs 20d 28,219 / 50d 29,482"
   },
   {
    "id": "y10",
    "name": "10Y yield",
    "weight": 3,
    "value": 0,
-   "reason": "10Y 5.07% (+7 bps over 5d)"
+   "reason": "10Y 5.06% (-5 bps over 5d)"
   },
   {
    "id": "fed",
    "name": "Rate expectations (5Y yield)",
    "weight": 2,
    "value": -1,
-   "reason": "5Y 4.88% (+19 bps over 10d)"
+   "reason": "5Y 4.87% (+26 bps over 10d)"
   },
   {
    "id": "vix",
    "name": "VIX / volatility",
    "weight": 2,
    "value": -1,
-   "reason": "VIX 24.6 (+41% over 5d)"
+   "reason": "VIX 27.2 (+45% over 5d)"
   },
   {
    "id": "mega",
    "name": "Mega-cap leadership",
    "weight": 3,
    "value": -1,
-   "reason": "Mega-cap avg -3.6% over 5d"
+   "reason": "Mega-cap avg -5.1% over 5d"
   },
   {
    "id": "dxy",
    "name": "DXY (US dollar)",
    "weight": 1,
-   "value": -1,
-   "reason": "DXY 103.79 (+0.9% over 5d)"
+   "value": 0,
+   "reason": "DXY 103.88 (+0.7% over 5d)"
   },
   {
    "id": "brd",
@@ -55,15 +55,13 @@
    "id": "glx",
    "name": "Overnight move",
    "weight": 1,
-   "value": 1,
-   "reason": "NQ +0.41% vs prior close"
+   "value": -1,
+   "reason": "NQ -1.35% vs prior close"
   }
  ],
- "updated": "2026-11-18T21:03+00:00",
- "events": [
-  "14:00 ET  FOMC Meeting Minutes"
- ],
- "event_risk": true,
- "price": 27186.25,
+ "updated": "2026-11-19T19:50+00:00",
+ "events": [],
+ "event_risk": false,
+ "price": 26819.75,
  "contract": "NQZ2026"
 }
