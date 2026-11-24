@@ -7,7 +7,7 @@
    "name": "Higher-timeframe trend",
    "weight": 3,
    "value": -1,
-   "reason": "NQ 26,249 vs 20d 27,699 / 50d 29,291"
+   "reason": "NQ 26,266 vs 20d 27,700 / 50d 29,291"
   },
   {
    "id": "y10",
@@ -42,7 +42,7 @@
    "name": "DXY (US dollar)",
    "weight": 1,
    "value": 0,
-   "reason": "DXY 103.83 (+0.3% over 5d)"
+   "reason": "DXY 103.82 (+0.3% over 5d)"
   },
   {
    "id": "brd",
@@ -56,12 +56,12 @@
    "name": "Overnight move",
    "weight": 1,
    "value": -1,
-   "reason": "NQ -2.09% vs prior close"
+   "reason": "NQ -2.02% vs prior close"
   }
  ],
- "updated": "2026-11-24T21:49+00:00",
+ "updated": "2026-11-24T22:52+00:00",
  "events": [],
  "event_risk": false,
- "price": 26248.75,
+ "price": 26266.0,
  "contract": "NQZ2026"
 }
