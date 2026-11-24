@@ -1,5 +1,5 @@
 {
- "score": -29,
+ "score": -33,
  "label": "Bearish",
  "drivers": [
   {
@@ -7,7 +7,7 @@
    "name": "Higher-timeframe trend",
    "weight": 3,
    "value": -1,
-   "reason": "NQ 26,880 vs 20d 27,881 / 50d 29,346"
+   "reason": "NQ 26,802 vs 20d 27,877 / 50d 29,345"
   },
   {
    "id": "y10",
@@ -20,8 +20,8 @@
    "id": "fed",
    "name": "Rate expectations (5Y yield)",
    "weight": 2,
-   "value": 0,
-   "reason": "5Y 4.73% (+7 bps over 10d)"
+   "value": null,
+   "reason": "data unavailable"
   },
   {
    "id": "vix",
@@ -42,7 +42,7 @@
    "name": "DXY (US dollar)",
    "weight": 1,
    "value": -1,
-   "reason": "DXY 104.30 (+0.7% over 5d)"
+   "reason": "DXY 104.32 (+0.7% over 5d)"
   },
   {
    "id": "brd",
@@ -56,12 +56,12 @@
    "name": "Overnight move",
    "weight": 1,
    "value": 1,
-   "reason": "NQ +6.98% vs prior close"
+   "reason": "NQ +6.67% vs prior close"
   }
  ],
- "updated": "2026-11-23T23:12+00:00",
+ "updated": "2026-11-24T00:32+00:00",
  "events": [],
  "event_risk": false,
- "price": 26880.25,
+ "price": 26802.25,
  "contract": "NQZ2026"
 }
