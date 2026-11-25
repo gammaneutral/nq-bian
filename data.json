@@ -7,7 +7,7 @@
    "name": "Higher-timeframe trend",
    "weight": 3,
    "value": -1,
-   "reason": "NQ 26,020 vs 20d 27,503 / 50d 29,233"
+   "reason": "NQ 26,014 vs 20d 27,502 / 50d 29,232"
   },
   {
    "id": "y10",
@@ -28,21 +28,21 @@
    "name": "VIX / volatility",
    "weight": 2,
    "value": -1,
-   "reason": "VIX 28.8 (+17% over 5d)"
+   "reason": "VIX 28.3 (+15% over 5d)"
   },
   {
    "id": "mega",
    "name": "Mega-cap leadership",
    "weight": 3,
    "value": -1,
-   "reason": "Mega-cap avg -2.6% over 5d"
+   "reason": "Mega-cap avg -2.8% over 5d"
   },
   {
    "id": "dxy",
    "name": "DXY (US dollar)",
    "weight": 1,
    "value": 0,
-   "reason": "DXY 103.69 (-0.2% over 5d)"
+   "reason": "DXY 103.70 (-0.2% over 5d)"
   },
   {
    "id": "brd",
@@ -56,15 +56,15 @@
    "name": "Overnight move",
    "weight": 1,
    "value": -1,
-   "reason": "NQ -0.98% vs prior close"
+   "reason": "NQ -1.00% vs prior close"
   }
  ],
- "updated": "2026-11-25T20:56+00:00",
+ "updated": "2026-11-25T22:05+00:00",
  "events": [
   "08:30 ET  Core PCE Price Index m/m",
   "08:30 ET  Prelim GDP q/q"
  ],
  "event_risk": true,
- "price": 26019.5,
+ "price": 26013.5,
  "contract": "NQZ2026"
 }
