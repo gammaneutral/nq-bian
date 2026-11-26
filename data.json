@@ -1,5 +1,5 @@
 {
- "score": -35,
+ "score": -24,
  "label": "Bearish",
  "drivers": [
   {
@@ -7,7 +7,7 @@
    "name": "Higher-timeframe trend",
    "weight": 3,
    "value": -1,
-   "reason": "NQ 26,014 vs 20d 27,502 / 50d 29,232"
+   "reason": "NQ 26,221 vs 20d 27,340 / 50d 29,170"
   },
   {
    "id": "y10",
@@ -28,7 +28,7 @@
    "name": "VIX / volatility",
    "weight": 2,
    "value": -1,
-   "reason": "VIX 28.3 (+15% over 5d)"
+   "reason": "VIX 26.8 (-6% over 5d)"
   },
   {
    "id": "mega",
@@ -42,7 +42,7 @@
    "name": "DXY (US dollar)",
    "weight": 1,
    "value": 0,
-   "reason": "DXY 103.70 (-0.2% over 5d)"
+   "reason": "DXY 103.77 (-0.1% over 5d)"
   },
   {
    "id": "brd",
@@ -55,16 +55,13 @@
    "id": "glx",
    "name": "Overnight move",
    "weight": 1,
-   "value": -1,
-   "reason": "NQ -1.00% vs prior close"
+   "value": 1,
+   "reason": "NQ +0.46% vs prior close"
   }
  ],
- "updated": "2026-11-25T22:05+00:00",
- "events": [
-  "08:30 ET  Core PCE Price Index m/m",
-  "08:30 ET  Prelim GDP q/q"
- ],
- "event_risk": true,
- "price": 26013.5,
+ "updated": "2026-11-26T20:48+00:00",
+ "events": [],
+ "event_risk": false,
+ "price": 26221.25,
  "contract": "NQZ2026"
 }
