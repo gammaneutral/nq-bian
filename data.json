@@ -42,7 +42,7 @@
    "name": "DXY (US dollar)",
    "weight": 1,
    "value": 0,
-   "reason": "DXY 104.03 (+0.1% over 5d)"
+   "reason": "DXY 104.01 (+0.1% over 5d)"
   },
   {
    "id": "brd",
@@ -59,7 +59,7 @@
    "reason": "NQ +2.55% vs prior close"
   }
  ],
- "updated": "2026-11-27T20:32+00:00",
+ "updated": "2026-11-27T21:46+00:00",
  "events": [],
  "event_risk": false,
  "price": 26765.0,
